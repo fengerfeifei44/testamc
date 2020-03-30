@@ -1,0 +1,21 @@
+.position {
+    position: relative;
+}
+.position i{
+    position: absolute;
+    right: 20px;
+    font-size: 16px;
+    color: #666;
+}
+
+.content li.left input{
+   padding-right: 5px;
+
+}
+/*
+.content li.left select{
+
+    font-family: "微软雅黑";
+    font-size: 16px;
+    padding-left: 0;
+}*/
